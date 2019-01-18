@@ -115,3 +115,20 @@ public class ExcelWriteFactory {
 }
 
 ```
+
+* console log
+
+```shell
+09:32:26,291  INFO FileUtil:32 - >do createTimeSamp
+09:32:26,295  INFO FileUtil:45 - >do assertFile
+09:32:27,491  INFO FileUtil:45 - >do assertFile
+09:32:27,959  INFO FileUtil:45 - >do assertFile
+09:32:28,334  INFO FileUtil:45 - >do assertFile
+09:32:28,573  INFO FileUtil:45 - >do assertFile
+09:32:28,789  INFO FileUtil:45 - >do assertFile
+09:32:29,108  INFO Class:56 - >do zipFile:c:\temp\20190118090126\2018年秋小学三年级期末考试\
+09:32:29,109  INFO Class:60 - >end time:2.825s
+
+Process finished with exit code 0
+
+```
